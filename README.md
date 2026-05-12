@@ -1,5 +1,6 @@
 # ParkSmart: Análisis del uso del Aparcamiento en la UPCT en Campus la Muralla de Mar mediante Datos Abiertos
-Repositorio del reto ParkSmart de la UPCT
+
+Repositorio del reto ParkSmart de la UPCT para en análisis de la movilidad de los estudiantes de la UPCT en el entorno del Campus La Muralla del Mar y un predictor de ocupación mediante el uso de los datos abiertos [Open Data Movilidad](https://www.transportes.gob.es/ministerio/proyectos-singulares/estudios-de-movilidad-con-big-data/opendata-movilidad) 
 
 ## Archivos importantes
 - `src\travel_predictor_app.py`: entrena el modelo y levanta la interfaz web en HTML.
