@@ -1,0 +1,36 @@
+[3003001, 3003002, 3003003, 3003004, 3003005, 3003006, 3003007, 3003008, 30027, 30005, 30035, 30036, 3003701, 3003702, 30902]
+
+
+3003001: Murcia distrito 01
+3003002: Murcia distrito 02
+3003003: Murcia distrito 03
+3003004: Murcia distrito 04
+3003005: Murcia distrito 05
+3003006: Murcia distrito 06
+3003007: Murcia distrito 07
+3003008: Murcia distrito 08
+30027: Molina de Segura
+30005: Alcantarilla 
+30035: San Javier
+30036: San Pedro del Pinatar
+3003701: Torre-Pacheco distrito 01
+3003702: Torre-Pacheco distrito 02
+30902: Los Alcázares
+
+
+
+3003001 (Distrito 1 - Centro/Norte): Barrios históricos y ensanche (San Andrés, San Antón, San Miguel, San Nicolás, San Pedro, Santa María de Gracia, El Ranero).
+
+3003002 (Distrito 2 - Centro/Este): Zona muy poblada y estudiantil (La Catedral, San Lorenzo, Santa Eulalia, La Fama, La Flota, Vistabella, Vista Alegre).
+
+3003003 (Distrito 3 - Zona Sur): Cruzando el río (El Carmen, Infante Juan Manuel, Santiago el Mayor, San Pío X, Patiño).
+
+3003004 (Distrito 4 - Pedanías Norte): Zona de expansión y centros comerciales (Churra, Cabezo de Torres, El Puntal, Monteagudo).
+
+3003005 (Distrito 5 - Pedanías Sur): Núcleos muy potentes (El Palmar, La Alberca, Sangonera la Verde, Algezares).
+
+3003006 (Distrito 6 - Pedanías Este): Cordillera Sur (Beniaján, Los Dolores, Torreagüera, Los Ramos).
+
+3003007 (Distrito 7 - Pedanías Oeste): Entorno de la UCAM y polígonos (La Ñora, Guadalupe, Javalí Nuevo/Viejo, Sangonera la Seca).
+
+3003008 (Distrito 8 - Campo de Murcia): Zonas más alejadas hacia Cartagena (Corvera, Sucina, Baños y Mendigo).
