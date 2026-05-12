@@ -4,7 +4,7 @@ Repositorio del reto ParkSmart de la UPCT para en análisis de la movilidad de l
 
 ## Archivos importantes
 - `src\travel_predictor_app.py`: entrena el modelo y levanta la interfaz web en HTML.
-- `requirements.txt`: dependencias.
+- `environment.yml`: dependencias para la creacion del entorno virtual conda.
 
 ## Uso
 1. Crea un conda environment e instala dependencias:
