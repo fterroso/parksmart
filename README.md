@@ -6,6 +6,7 @@ Repositorio del reto ParkSmart de la UPCT para en análisis de la movilidad de l
 - `src\travel_predictor_app.py`: entrena el modelo y levanta la interfaz web en HTML.
 - `environment.yml`: dependencias para la creacion del entorno virtual conda.
 - `calendario_murcia_cartagena_22_25.csv`: calendario académico de la UPCT para cada día entre 2022 y 2025.
+- `viajes_calendario_murcia_cartagena_22_25.csv`: viajes extraidos de Open Data Movilidad.
 
 ## Uso
 1. Crea un conda environment e instala dependencias:
